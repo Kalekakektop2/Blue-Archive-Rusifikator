@@ -1,0 +1,8 @@
+# Local extraction and build artifacts are not part of the public project page.
+inputs/
+extracted/
+outputs/
+work/
+venv/
+__pycache__/
+*.log
